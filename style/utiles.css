@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px
+}
+header ul li a img {
+    margin-top: -18px;
+    margin-left: 36px;
+}
+.logo{
+    display: flex;
+}
+.home{
+    margin-top: 42px;
+}
+.program-name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.program-name li{
+    margin-left: 24px;
+}
+main{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.welcome{
+    margin: 47px 0px;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+}
+.skull{
+    margin: 31px 15px;
+}
+.social-media{
+    margin-top: 36px;
+}
+.copy-right{
+    text-align: center;
+    margin: -25px 0px;
+}

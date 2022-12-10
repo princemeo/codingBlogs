@@ -1,0 +1,42 @@
+header{
+    width: 100vw;
+    height: 39vh;
+}
+header ul li {
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+header ul li a img{
+   width: 157px;
+}
+.home{
+    font-family: 'Sono', sans-serif;
+}
+.program-name{
+    box-sizing: border-box;
+    border: solid #e5e7eb;
+    height: 38px;
+    font-family: 'Noto Sans', sans-serif;
+}
+main{
+    min-height: calc(100vh - 39vh - 16vh);
+}
+.welcome{
+    font-family: 'Sono', sans-serif;
+}
+footer{
+    width: 100vw;
+    height: 16vh;
+}
+.skull{
+    font-size: 35px;
+}
+.social-media{
+    font-size: 24px;
+}
+.copy-right{
+    font-family: 'Sono', sans-serif;
+
+}

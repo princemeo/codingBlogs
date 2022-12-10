@@ -1,0 +1,23 @@
+@media  screen and (max-width:992px) {
+    header ul li a img{
+        margin-left: -12px;
+    }
+    .program-name{
+        margin: -20px 0px;
+    }
+    .program-name li{
+        font-size: 13px;
+        margin: auto;
+    }
+    .welcome{
+        margin: 0px 0px;
+    }
+    h1{
+        font-size: 36px;
+    }
+    .p{
+        width: 367px;
+        margin: auto;
+    }
+    
+}
